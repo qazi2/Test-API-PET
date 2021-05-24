@@ -1,5 +1,12 @@
 # PET API TEST
 
+**Pre-requisites:**
+
+Java™ SE Development Kit 8
+
+Maven
+
+
 **How to Run:**
 
 1. Clone the repository
@@ -28,6 +35,17 @@ Following are the Test scenarios created for this project and can also be visual
 13. To verify if the user is able to delete the pet
 14. Verify the response for the pet already deleted
 
+**Test Report:**
+
+After executing the test report is generated in the following directory:
+- target/surefire-reports/emailable-report.html
+- target/Test_report/report.html
+
+
+**Test Execution Report:**
+
+
+
 **Maven:**
 Maven is a build automation tool that is mostly used in Java projects. Maven can also be used to create and manage projects written in other languages such as C#, Ruby, Scala, and others. For more information: https://maven.apache.org/
 
@@ -39,3 +57,4 @@ Cucumber examines all of the executable tests and steps written in plain English
 
 **TestNG:**
 We have used the TestNG library because it supports a wide range of annotations. It also has excellent Test Case management capabilities and, most crucially, a user-friendly reporting interface. For more information related to TestNG - https://testng.org/doc/
+
