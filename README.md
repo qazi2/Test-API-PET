@@ -25,7 +25,7 @@ Following are the Test scenarios created for this project and can also be visual
 10. To verify if the user is able to update the existing pet
 11. To verify if the user is able to update a pet in the store with form data
 12. To verify if the user is able to update a pet with wrong status
-13. To verify if the user is able to update a pet with wrong status
+13. To verify if the user is able to delete the pet
 14. Verify the response for the pet already deleted
 
 **Maven:**
