@@ -38,12 +38,12 @@ Following are the Test scenarios created for this project and can also be visual
 **Test Report:**
 
 After executing the test report is generated in the following directory:
-- target/surefire-reports/emailable-report.html
-- target/Test_report/report.html
+- ```target/surefire-reports/emailable-report.html```
+- ```target/Test_report/report.html```
 
 
 **Test Execution Report:**
-
+- ```Test-API-PET/Test Execution Report - API.pdf```
 
 
 **Maven:**
