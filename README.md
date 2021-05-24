@@ -42,10 +42,6 @@ After executing the test report is generated in the following directory:
 - ```target/Test_report/report.html```
 
 
-**Test Execution Report:**
-- ```Test-API-PET/Test Execution Report - API.pdf```
-
-
 **Maven:**
 Maven is a build automation tool that is mostly used in Java projects. Maven can also be used to create and manage projects written in other languages such as C#, Ruby, Scala, and others. For more information: https://maven.apache.org/
 
