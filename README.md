@@ -9,7 +9,7 @@ Maven
 
 **How to Run:**
 
-1. Clone the repository
+1. Clone the repository ``` git clone https://github.com/qazi2/Test-API-PET.git ```
 
 2. In terminal execute ```mvn clean test``` or build from ide src/java/test/runner/TestRunner.java
 
