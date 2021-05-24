@@ -1,5 +1,12 @@
 # PET API TEST
 
+**How to Run:**
+
+1. Clone the repository
+
+2. In terminal execute ```mvn clean test``` or build from ide src/java/test/runner/TestRunner.java
+
+
 **About Project:**
 
 This project uses Rest-Assured API, Cucumber, TESTNG to test the following API - https://petstore.swagger.io/
@@ -21,6 +28,8 @@ Following are the Test scenarios created for this project and can also be visual
 13. To verify if the user is able to update a pet with wrong status
 14. Verify the response for the pet already deleted
 
+**Maven:**
+Maven is a build automation tool that is mostly used in Java projects. Maven can also be used to create and manage projects written in other languages such as C#, Ruby, Scala, and others. For more information: https://maven.apache.org/
 
 **Rest - Assured:**
 Rest-Assured is an open-source Java DSL that simplifies REST service testing. It makes things easier by removing the need for boilerplate code when testing and validating complex replies. It can also handle XML and JSON requests and responses. For more information: http://rest-assured.io/
